@@ -1,0 +1,15 @@
+prefix: "§l§b[ShopKeeper]§r§7 "
+
+
+command.use.only.ingame: "Command use only in Minecraft Game"
+command.use.not.permission: "You don't have permission."
+
+spawnkeeper.command.name: "keeper spawn"
+spawnkeeper.command.description: "Spawn ShopKeeper Entity."
+spawnkeeper.command.help: "/keeper spawn [name: string] [radius: int]"
+spawnkeeper.command.successed: "Successd. Spawn KeeperEntity!"
+
+displaykeeper.command.name: "keeper displayitem"
+displaykeeper.command.description: "Modify Keeper Items."
+displaykeeper.command.help: "/keeper displayitem [name: string]"
+displaykeeper.command.failed: "Failed. isn't keeper name."
