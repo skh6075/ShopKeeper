@@ -1,0 +1,12 @@
+name: ShopKeeper
+main: skh6075\shopkeeper\Loader
+author: AvasKr
+version: 1.0.0
+api: 3.16.0
+website: https://github.com/GodVas
+
+permissions:
+  spawnkeeper.command.permission:
+    default: op
+  displaykeeper.command.permission:
+    default: op
